@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Logo-Inspired Colors (Dark Purple & Light Pink) -->
+    <color name="logo_dark_purple">#6B4C93</color>
+    <color name="logo_light_pink">#FFB6C1</color>
+    <color name="logo_pink_stripe">#FFE4E9</color>
+    
+    <!-- Primary Colors (matching logo) -->
+    <color name="primary_pink">#FFB6C1</color>
+    <color name="primary_purple">#6B4C93</color>
+    
+    <!-- Accent Colors -->
+    <color name="primary_orange">#FF8C69</color>
+    <color name="primary_blue">#8B7EC8</color>
+    
+    <!-- Background Colors -->
+    <color name="background_light">#FFF8F5</color>
+    <color name="background_stripe_pink">#FFE4E9</color>
+    <color name="card_background">#FFFFFF</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#4A2C5A</color>
+    <color name="text_secondary">#8B7EC8</color>
+    <color name="accent_color">#FFB6C1</color>
+</resources>

@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "217309041330",
+    "project_id": "petmatch-a44a8",
+    "storage_bucket": "petmatch-a44a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217309041330:android:b7bf15802d51cdd383afab",
+        "android_client_info": {
+          "package_name": "com.example.pawfect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpHCae3O-NT5Sgq3VQqgzO2cLd2e6olag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
+
